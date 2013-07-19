@@ -7,6 +7,7 @@
 Intro.js can be added to your site in three simple steps:
 
 **1)** Include `intro.js` and `introjs.css` (or the minified version for production) in your page. 
+   If you need "Right to Left" language support (eg Arabic, Hebrew), then add the `introjs-rtl.css` after `introjs.css`.
 
 **2)** Add `data-intro` and `data-step` to your HTML elements.  
 
